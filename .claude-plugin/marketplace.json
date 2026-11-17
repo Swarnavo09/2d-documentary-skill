@@ -1,0 +1,11 @@
+{
+  "name": "2d-documentary-skill",
+  "owner": { "name": "swarnavo09" },
+  "plugins": [
+    {
+      "name": "2d-documentary-skill",
+      "source": "./",
+      "description": "Make a 16:9 stick-figure documentary video in code, start to finish."
+    }
+  ]
+}
